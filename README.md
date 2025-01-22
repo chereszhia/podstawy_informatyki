@@ -1,1 +1,2 @@
-# podstawy_informatyki
+# podstawy_informatyki 
+pick ME

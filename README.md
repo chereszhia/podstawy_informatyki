@@ -1,2 +1,8 @@
-#podstawy_informatyki 1a
-pick ME
+#podstawy_informatyki
+Imię: Matsvei
+Nazwisko: Mychko
+klasa; 1a
+
+
+
+
